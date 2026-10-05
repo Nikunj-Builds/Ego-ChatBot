@@ -265,8 +265,10 @@ Follow the section for your operating system.
 
 **2. Get the app**
 
-- Put all the files (`main.py`, `requirements.txt`, `ego_logo.png`,
-  `settings.json`) in one folder, e.g. `C:\Ego`.
+- Download the **Ego ZIP** (`Ego.zip`) from the GitHub repo/releases.
+- Extract it into a folder, e.g. `Documents\Ego`. The ZIP already contains an
+  `Ego` folder with all the files (`main.py`, `requirements.txt`,
+  `ego_logo.png`, `settings.json`).
 
 **3. Create a virtual environment**
 
@@ -315,8 +317,10 @@ automatically.
 
 **2. Get the app**
 
-- Put all the files (`main.py`, `requirements.txt`, `ego_logo.png`,
-  `settings.json`, `Ego.sh`) in one folder, e.g. `~/Ego`.
+- Download the **Ego ZIP** (`Ego.zip`) from the GitHub repo/releases.
+- Extract it into a folder, e.g. `Documents\Ego`. The ZIP already contains an
+  `Ego` folder with all the files (`main.py`, `requirements.txt`,
+  `ego_logo.png`, `settings.json`).
 
 **3. Create a virtual environment**
 
