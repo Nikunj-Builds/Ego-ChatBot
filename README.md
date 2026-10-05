@@ -265,7 +265,7 @@ Follow the section for your operating system.
 
 **2. Get the app**
 
-- Download the **Ego ZIP** (`Ego.zip`) from the GitHub repo/releases.
+- Download the **Ego ZIP** (`Ego.zip`) from the GitHub repo.
 - Extract it into a folder, e.g. `Documents\Ego`. The ZIP already contains an
   `Ego` folder with all the files (`main.py`, `requirements.txt`,
   `ego_logo.png`, `settings.json`).
@@ -317,7 +317,7 @@ automatically.
 
 **2. Get the app**
 
-- Download the **Ego ZIP** (`Ego.zip`) from the GitHub repo/releases.
+- Download the **Ego ZIP** (`Ego.zip`) from the GitHub repo.
 - Extract it into a folder, e.g. `Documents\Ego`. The ZIP already contains an
   `Ego` folder with all the files (`main.py`, `requirements.txt`,
   `ego_logo.png`, `settings.json`).
