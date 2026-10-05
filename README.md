@@ -386,22 +386,6 @@ Ego works with **GGUF** models. Good places to get them:
 - **LM Studio** — <https://lmstudio.ai> (a friendly GUI that can also search and
   download GGUF models).
 
-**Which size for your PC?** Pick a quantisation (Q4_K_M is a good default) that
-fits in your RAM (CPU) or VRAM (GPU):
-
-| Model size (Q4) | Rough memory needed | Good for |
-|---|---|---|
-| 0.5B – 1.5B | ~1 – 1.5 GB | Very low-end PCs, CPU-only |
-| 3B | ~2 – 2.5 GB | 4 GB RAM |
-| 7B – 8B | ~5 – 6 GB | 8 GB RAM (a sweet spot) |
-| 13B – 14B | ~8 – 9 GB | 12 – 16 GB RAM |
-| 30B – 32B | ~18 – 20 GB | 32 GB RAM |
-| 70B | ~40 GB | 64 GB RAM / multi-GPU |
-
-If you have a GPU, the model should fit in **VRAM** for full speed; otherwise
-part of it runs on the CPU (slower). Start small and go bigger if it feels
-sluggish.
-
 **A3. Start the server**
 
 Ego expects the server on **port 8080**. Start it before opening Ego.
